@@ -2,7 +2,7 @@
   "name": "bianca-afonso",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/b7-afonso/bianca-afonso.git",
+  "homepage": "https://b7-afonso.github.io/bianca-afonso/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
