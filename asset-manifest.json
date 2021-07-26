@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bianca-afonso/static/css/main.be0eb72f.chunk.css",
+    "main.js": "/bianca-afonso/static/js/main.0587a667.chunk.js",
+    "main.js.map": "/bianca-afonso/static/js/main.0587a667.chunk.js.map",
+    "runtime-main.js": "/bianca-afonso/static/js/runtime-main.345021cd.js",
+    "runtime-main.js.map": "/bianca-afonso/static/js/runtime-main.345021cd.js.map",
+    "static/js/2.68d9fb9c.chunk.js": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js",
+    "static/js/2.68d9fb9c.chunk.js.map": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js.map",
+    "static/js/3.e547369d.chunk.js": "/bianca-afonso/static/js/3.e547369d.chunk.js",
+    "static/js/3.e547369d.chunk.js.map": "/bianca-afonso/static/js/3.e547369d.chunk.js.map",
+    "index.html": "/bianca-afonso/index.html",
+    "static/css/main.be0eb72f.chunk.css.map": "/bianca-afonso/static/css/main.be0eb72f.chunk.css.map",
+    "static/js/2.68d9fb9c.chunk.js.LICENSE.txt": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.345021cd.js",
+    "static/js/2.68d9fb9c.chunk.js",
+    "static/css/main.be0eb72f.chunk.css",
+    "static/js/main.0587a667.chunk.js"
+  ]
+}
