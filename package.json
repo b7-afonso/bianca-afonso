@@ -2,7 +2,7 @@
   "name": "bianca-afonso",
   "version": "0.1.0",
   "private": true,
-  "homepage": "link-to-your-repository",
+  "homepage": "https://github.com/b7-afonso/bianca-afonso.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -17,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
