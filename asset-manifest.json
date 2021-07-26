@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/b7-afonso/bianca-afonso.git/static/css/main.be0eb72f.chunk.css",
-    "main.js": "/b7-afonso/bianca-afonso.git/static/js/main.0587a667.chunk.js",
-    "main.js.map": "/b7-afonso/bianca-afonso.git/static/js/main.0587a667.chunk.js.map",
-    "runtime-main.js": "/b7-afonso/bianca-afonso.git/static/js/runtime-main.01d9368f.js",
-    "runtime-main.js.map": "/b7-afonso/bianca-afonso.git/static/js/runtime-main.01d9368f.js.map",
-    "static/js/2.68d9fb9c.chunk.js": "/b7-afonso/bianca-afonso.git/static/js/2.68d9fb9c.chunk.js",
-    "static/js/2.68d9fb9c.chunk.js.map": "/b7-afonso/bianca-afonso.git/static/js/2.68d9fb9c.chunk.js.map",
-    "static/js/3.e547369d.chunk.js": "/b7-afonso/bianca-afonso.git/static/js/3.e547369d.chunk.js",
-    "static/js/3.e547369d.chunk.js.map": "/b7-afonso/bianca-afonso.git/static/js/3.e547369d.chunk.js.map",
-    "index.html": "/b7-afonso/bianca-afonso.git/index.html",
-    "static/css/main.be0eb72f.chunk.css.map": "/b7-afonso/bianca-afonso.git/static/css/main.be0eb72f.chunk.css.map",
-    "static/js/2.68d9fb9c.chunk.js.LICENSE.txt": "/b7-afonso/bianca-afonso.git/static/js/2.68d9fb9c.chunk.js.LICENSE.txt"
+    "main.css": "/bianca-afonso/static/css/main.be0eb72f.chunk.css",
+    "main.js": "/bianca-afonso/static/js/main.0587a667.chunk.js",
+    "main.js.map": "/bianca-afonso/static/js/main.0587a667.chunk.js.map",
+    "runtime-main.js": "/bianca-afonso/static/js/runtime-main.345021cd.js",
+    "runtime-main.js.map": "/bianca-afonso/static/js/runtime-main.345021cd.js.map",
+    "static/js/2.68d9fb9c.chunk.js": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js",
+    "static/js/2.68d9fb9c.chunk.js.map": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js.map",
+    "static/js/3.e547369d.chunk.js": "/bianca-afonso/static/js/3.e547369d.chunk.js",
+    "static/js/3.e547369d.chunk.js.map": "/bianca-afonso/static/js/3.e547369d.chunk.js.map",
+    "index.html": "/bianca-afonso/index.html",
+    "static/css/main.be0eb72f.chunk.css.map": "/bianca-afonso/static/css/main.be0eb72f.chunk.css.map",
+    "static/js/2.68d9fb9c.chunk.js.LICENSE.txt": "/bianca-afonso/static/js/2.68d9fb9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01d9368f.js",
+    "static/js/runtime-main.345021cd.js",
     "static/js/2.68d9fb9c.chunk.js",
     "static/css/main.be0eb72f.chunk.css",
     "static/js/main.0587a667.chunk.js"
